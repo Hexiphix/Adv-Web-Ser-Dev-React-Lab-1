@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Adv-Web-Ser-Dev-React-Lab-1/static/css/main.ad4a6bf9.css",
+    "main.js": "/Adv-Web-Ser-Dev-React-Lab-1/static/js/main.486f9f25.js",
+    "static/js/787.4d6ab9fd.chunk.js": "/Adv-Web-Ser-Dev-React-Lab-1/static/js/787.4d6ab9fd.chunk.js",
+    "index.html": "/Adv-Web-Ser-Dev-React-Lab-1/index.html",
+    "main.ad4a6bf9.css.map": "/Adv-Web-Ser-Dev-React-Lab-1/static/css/main.ad4a6bf9.css.map",
+    "main.486f9f25.js.map": "/Adv-Web-Ser-Dev-React-Lab-1/static/js/main.486f9f25.js.map",
+    "787.4d6ab9fd.chunk.js.map": "/Adv-Web-Ser-Dev-React-Lab-1/static/js/787.4d6ab9fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad4a6bf9.css",
+    "static/js/main.486f9f25.js"
+  ]
+}
